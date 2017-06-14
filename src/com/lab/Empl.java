@@ -1,5 +1,7 @@
 package com.lab;
 
+//comment
+
 public class Empl implements IContent {
 	
 	String name;
